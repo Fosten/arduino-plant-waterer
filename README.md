@@ -75,7 +75,7 @@ To get started programing Arduino, follow these steps:
 
 ## License 📜
 
-This project is licensed under the [GNU General Public License](/LICENSE.md).
+This project is licensed under the [GNU General Public License](/LICENSE).
 
 ## Let's Get Building! 🚀
 
