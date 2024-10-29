@@ -8,6 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 # 1.0.0 (2024-10-29)
 - Add CHANGELOG.md
+- Add LICENSE.md
+- Add GHA workflow for compile tests
+- Add images for README.md
 - Add README.md
 
 # 0.5.0 (2023-02-05)

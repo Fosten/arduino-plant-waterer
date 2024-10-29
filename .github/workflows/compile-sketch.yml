@@ -22,9 +22,12 @@ jobs:
           sketch-paths: |
             # Configure the action to search all files under the root of the repository for sketches and compile them.
             # This is formatted as a YAML list, which makes it possible to have multiple sketch paths if needed.
-            - ./sketches
+            - ./sketches/wifi_moisture_sensor_ssr_pump_4_terminals_mqtt
+            - ./sketches/wifi_moisture_sensor_ssr_pump_4_terminals
+            - ./sketches/wifi_moisture_sensor_relay_pump_4_terminals
+            - ./sketches/moisture_sensor_relay_pump_4_terminals
+            - ./sketches/feather_moisture_sensor_relay_pump
           libraries: |
             # If the sketch being compiled doesn't use any libraries, so just use an empty list
-            - name: SPI
             - name: WiFiNINA_Generic
             - name: ArduinoMqttClient
